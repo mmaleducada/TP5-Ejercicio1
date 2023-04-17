@@ -1,0 +1,22 @@
+body {
+	background-color: rgb(55, 0, 110);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex-grow: 1;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+.btn-primary {
+	font-size: 1.2rem;
+}
+
+.form-control {
+	font-size: 1.2rem;
+}
